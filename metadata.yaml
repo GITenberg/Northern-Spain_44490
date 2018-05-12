@@ -1,0 +1,29 @@
+_repo: Northern-Spain_44490
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44490-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wigram, Edgar Thomas Ainger
+    aliases:
+    - Wigram, Edgar Thomas Ainger, Sir
+    - Wigram, Edgar T. A. (Edgar Thomas Ainger)
+    birthdate: 1864
+    gutenberg_agent_id: '42745'
+    url: http://www.gutenberg.org/2009/agents/42745
+description: ''
+gutenberg_issued: '2013-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44490'
+  lccn: 08013696
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Description and travel'
+- !lcc 'DP'
+title: Northern Spain
+url: http://www.gutenberg.org/ebooks/44490
